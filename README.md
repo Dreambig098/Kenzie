@@ -1,2 +1,0 @@
-# Kenzie
-terminal-activity
